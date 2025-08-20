@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 What makes this tool special
-- **Smart AI Analysis** – Uses Google’s *Gemini 2.5-Pro* for reliable feature extraction & ranking  
+- **Smart AI Analysis** – Uses Google’s *Gemini 2.5-Flash* for reliable feature extraction & ranking  
 - **Zero Code Setup** – 100 % web UI, no CLI required  
 - **Fully Open Source** – MIT-licensed for commercial & personal use  
 - **Scalable** – Compare 2 – 10 products in one click  
@@ -22,12 +22,12 @@
 
 ## 🏗️ Tech Stack
 
-| Layer        | Choice                      |
-|--------------|-----------------------------|
-| UI Framework | [Streamlit](https://docs.streamlit.io)  |
-| AI Engine    | `google-genai` (Gemini 2.5-Pro) |
-| Language     | Python 3.13+                |
-| Packaging    | `pyproject.toml` / `pip`    |
+| Layer        | Choice                                |
+|--------------|---------------------------------------|
+| UI Framework | [Streamlit](https://docs.streamlit.io) |
+| AI Engine    | `google-genai` (Gemini 2.5-flash)     |
+| Language     | Python 3.13+                          |
+| Packaging    | `pyproject.toml` / `pip`              |
 
 ---
 
