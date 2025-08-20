@@ -1,0 +1,9 @@
+[project]
+name = "gadgets-comparator"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.31.0",
+    "streamlit>=1.48.1",
+]
