@@ -48,7 +48,7 @@ def main():
         st.header("🔐 API Settings")
         api_key = st.text_input("🔑 Enter your Gemini API key", type="password")
         st.markdown("---")
-        st.markdown("Model: `gemini-2.5-pro`")
+        st.markdown("Model: `gemini-2.5-flash`")
         st.markdown("---")
         st.info("For the best results, provide direct URLs to the content you want the model to analyze. The model will only retrieve content from the URLs you provide, not any content from nested links.")
         st.info("Verify that the URLs you provide don't lead to pages that require a login or are behind a paywall.")
@@ -89,7 +89,7 @@ def main():
             st.warning("📝 Please enter your specific requirements.")
             return
 
-        model_id = "gemini-2.5-pro"
+        model_id = "gemini-2.5-flash"
         response = generate_comparison_report(client, model_id, urls, user_requirements)
 
         # Display the comparison report
