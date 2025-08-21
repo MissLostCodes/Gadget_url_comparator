@@ -1,4 +1,6 @@
-# 🚀 Tech Product Comparator & Suggestion Tool  👉 https://gadgeturlcomparator.streamlit.app/
+# 🚀 Tech Product Comparator & Suggestion Tool  
+### 👉 https://gadgeturlcomparator.streamlit.app/
+
 
 ![Python](https://img.shields.io/badge/python-3.13+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.48.1+-FF4B4B)
